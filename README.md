@@ -179,3 +179,16 @@ Here are some open source references that could be useful in developing a DriveS
 4. Digital Trip Book: The digital trip book system can be developed using a variety of open source technologies, including web frameworks like Ruby on Rails or Django, and database systems like MySQL or PostgreSQL. A popular open source digital trip book implementation is the OpenTripPlanner project, which provides a comprehensive platform for trip planning and itinerary management. (https://github.com/opentripplanner/OpenTripPlanner)
 
 These open source references can serve as starting points for developing a DriveScore TripBook project, and can be combined and customized as needed to meet the specific requirements of the project.
+
+
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
